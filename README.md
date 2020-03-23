@@ -6,7 +6,7 @@
 In the terminal of your editor, write npm install
 
 For example, in Visual Studio Code need to hold «CTRL + `» [~]
-In the index.html file it is necessary to include 
+In the index.html file it is necessary to include  <br>
 style.css and js.js
   
   </p>
@@ -23,7 +23,7 @@ In &lt;/body&gt;
 В терминале вашего редактора напишите npm install
 
 Например, в Visual Studio Code нужно держать «CTRL +`» [~]. 
-В файле index.html необходимо 'подключить' 
+В файле index.html необходимо 'подключить' <br>
 style.css и js.js
 </p>
 
@@ -38,7 +38,7 @@ style.css и js.js
 
 У терміналі свого редактора напишіть npm install
 
-Наприклад, у коді Visual Studio потрібно утримувати «CTRL + `» 
+Наприклад, у коді Visual Studio потрібно утримувати «CTRL + `» <br>
 У файлі index.html потрібно підключити 
 style.css i js.js
 </p>
