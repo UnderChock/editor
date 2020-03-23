@@ -6,7 +6,7 @@
 In the terminal of your editor, write <br>
     
     npm install 
-    after 
+    After write
     npm start
 <br>
 For example, in Visual Studio Code need to hold «CTRL + `» [~]
@@ -26,7 +26,7 @@ In &lt;/body&gt;<br>
 В терминале вашего редактора напишите <br>
     
     npm install 
-    after 
+    после пишите
     npm start
 <br>
 
@@ -49,7 +49,7 @@ In &lt;/body&gt;<br>
 У терміналі свого редактора напишіть <br>
     
     npm install 
-    after 
+    після пишемо
     npm start
 <br>
 
