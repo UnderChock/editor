@@ -5,8 +5,8 @@
     Download file «package.json», «js.js», «style.css», «index.html».
 In the terminal of your editor, write <br>
     
-    npm install <br>
-    after <br>
+    npm install 
+    after 
     npm start
 <br>
 For example, in Visual Studio Code need to hold «CTRL + `» [~]
@@ -25,8 +25,8 @@ In &lt;/body&gt;<br>
 Загрузите файл «package.json», «js.js», «style.css», «index.html». 
 В терминале вашего редактора напишите <br>
     
-    npm install <br>
-    after <br>
+    npm install 
+    after 
     npm start
 <br>
 
@@ -48,8 +48,8 @@ In &lt;/body&gt;<br>
 
 У терміналі свого редактора напишіть <br>
     
-    npm install <br>
-    after <br>
+    npm install 
+    after 
     npm start
 <br>
 
