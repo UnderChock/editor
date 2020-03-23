@@ -3,8 +3,12 @@
 
 <p style='font-weight:bold;'>
     Download file «package.json», «js.js», «style.css», «index.html».
-In the terminal of your editor, write npm install
-
+In the terminal of your editor, write <br>
+    
+    npm install <br>
+    after <br>
+    npm start
+<br>
 For example, in Visual Studio Code need to hold «CTRL + `» [~]
 In the index.html file it is necessary to include  <br>
 <b>style.css and js.js</b>
@@ -19,7 +23,12 @@ In &lt;/body&gt;<br>
 <p style='font-weight:bold;'>
 <b>
 Загрузите файл «package.json», «js.js», «style.css», «index.html». 
-В терминале вашего редактора напишите npm install
+В терминале вашего редактора напишите <br>
+    
+    npm install <br>
+    after <br>
+    npm start
+<br>
 
 Например, в Visual Studio Code нужно держать «CTRL +`» [~]. 
 В файле index.html необходимо 'подключить' <br>
@@ -37,7 +46,12 @@ In &lt;/body&gt;<br>
 <b>
   Завантажте файл «package.json», «js.js», «style.css», «index.html». 
 
-У терміналі свого редактора напишіть npm install
+У терміналі свого редактора напишіть <br>
+    
+    npm install <br>
+    after <br>
+    npm start
+<br>
 
 Наприклад, у коді Visual Studio потрібно утримувати «CTRL + `» <br>
 У файлі index.html потрібно підключити 
