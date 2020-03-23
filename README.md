@@ -13,7 +13,7 @@ In the index.html file it is necessary to include  <br>
 
 In head index.html <br>
 <br>
-<b>&lt;link rel="stylesheet" href="style.css"&gt;</b>
+<b>&lt;link rel="stylesheet" href="style.css"&gt;</b> <br>
 In &lt;/body&gt;<br>
 <br>
 <b>&lt;script src="js.js"&gt;&lt;/script&gt;</b>
@@ -32,7 +32,7 @@ In &lt;/body&gt;<br>
 
 В head index.html<br>
 <br>
-<b>&lt;link rel="stylesheet" href="style.css"&gt;</b>
+<b>&lt;link rel="stylesheet" href="style.css"&gt;</b> <br>
 В &lt;/body&gt;<br>
 <br>
 <b>&lt;script src="js.js"&gt;&lt;/script&gt;</b>
@@ -52,10 +52,7 @@ In &lt;/body&gt;<br>
 
 У head index.html<br>
 <br>
-<b>&lt;link rel="stylesheet" href="style.css"&gt;</b>
+<b>&lt;link rel="stylesheet" href="style.css"&gt;</b> <br>
 У &lt;/body&gt;<br>
 <br>
 <b>&lt;script src="js.js"&gt;&lt;/script&gt;</b>
-
-
-//
