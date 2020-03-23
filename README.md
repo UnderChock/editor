@@ -11,9 +11,11 @@ In the index.html file it is necessary to include  <br>
   </p>
 
 
-In head index.html
+In head index.html <br>
+<br>
 <b>&lt;link rel="stylesheet" href="style.css"&gt;</b>
-In &lt;/body&gt;
+In &lt;/body&gt;<br>
+<br>
 <b>&lt;script src="js.js"&gt;&lt;/script&gt;</b>
 
 # RU Описание
@@ -28,9 +30,11 @@ In &lt;/body&gt;
 </b>
 </p>
 
-В head index.html
+В head index.html<br>
+<br>
 <b>&lt;link rel="stylesheet" href="style.css"&gt;</b>
-В &lt;/body&gt;
+В &lt;/body&gt;<br>
+<br>
 <b>&lt;script src="js.js"&gt;&lt;/script&gt;</b>
 
 # UA Опис
@@ -46,9 +50,11 @@ In &lt;/body&gt;
   </b>
 </p>
 
-У head index.html
+У head index.html<br>
+<br>
 <b>&lt;link rel="stylesheet" href="style.css"&gt;</b>
-У &lt;/body&gt;
+У &lt;/body&gt;<br>
+<br>
 <b>&lt;script src="js.js"&gt;&lt;/script&gt;</b>
 
 
