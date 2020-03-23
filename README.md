@@ -22,3 +22,4 @@ In the index.html file it is necessary to include style.css & js.js
 Наприклад, у коді Visual Studio потрібно утримувати «CTRL + `» 
 
 У файлі index.html потрібно підключити style.css & js.js
+//
