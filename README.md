@@ -11,7 +11,7 @@ In the terminal of your editor, write <br>
 <br>
 For example, in Visual Studio Code need to hold «CTRL + `» [~]
 In the index.html file it is necessary to include  <br>
-<b>style.css and js.js</b>
+<b>style.css и js.js</b>
   </p>
 <br>
 In head index.html <br>
@@ -21,7 +21,7 @@ In &lt;/body&gt;<br>
 
 # RU Описание
 <p style='font-weight:bold;'>
-<b>
+
 Загрузите файл «package.json», «js.js», «style.css», «index.html». 
 В терминале вашего редактора напишите <br>
     
@@ -43,7 +43,7 @@ In &lt;/body&gt;<br>
 
 # UA Опис
 <p style='font-weight:bold;'>
-<b>
+
   Завантажте файл «package.json», «js.js», «style.css», «index.html». 
 
 У терміналі свого редактора напишіть <br>
@@ -55,7 +55,7 @@ In &lt;/body&gt;<br>
 
 Наприклад, у коді Visual Studio потрібно утримувати «CTRL + `» <br>
 У файлі index.html потрібно підключити 
-<b>style.css and js.js</b>
+<b>style.css i js.js</b>
   </b>
 </p>
 <br>
