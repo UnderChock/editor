@@ -19,6 +19,13 @@ In head index.html <br>
 In &lt;/body&gt;<br>
 <b>&lt;script src="js.js"&gt;&lt;/script&gt;</b>
 
+<br>
+
+The extension is based on
+<br>
+LG Flatron w1943 1360x768
+
+<br>
 # RU Описание
 <p style='font-weight:bold;'>
 
@@ -41,6 +48,13 @@ In &lt;/body&gt;<br>
 В &lt;/body&gt;<br>
 <b>&lt;script src="js.js"&gt;&lt;/script&gt;</b>
 
+<br>
+
+Расширение создано на основе 
+<br>
+LG Flatron w1943 1360x768
+
+<br>
 # UA Опис
 <p style='font-weight:bold;'>
 
@@ -63,3 +77,12 @@ In &lt;/body&gt;<br>
 <b>&lt;link rel="stylesheet" href="style.css"&gt;</b> <br>
 У &lt;/body&gt;<br>
 <b>&lt;script src="js.js"&gt;&lt;/script&gt;</b>
+
+<br>
+Розширення створено на основі
+<br>
+LG Flatron w1943 1360x768
+
+<br>
+
+
